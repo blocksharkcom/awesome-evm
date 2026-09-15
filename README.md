@@ -301,6 +301,7 @@ If you're building on EVM and need a custom integration, a security review, a be
 - [ERC-2535 Diamonds](https://github.com/mudgen/diamond-3-hardhat) — Multi-facet proxy reference implementation.
 - [ERC-6909 Multi-Token Standard](https://github.com/Vectorized/solady/blob/main/src/tokens/ERC6909.sol)
 - [ERC-7579 Modular Smart Accounts](https://github.com/erc7579/erc7579-implementation)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
 
