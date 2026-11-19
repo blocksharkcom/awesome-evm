@@ -152,6 +152,7 @@ If you're building on EVM and need a custom integration, a security review, a be
 - [Rainbow Wallet](https://github.com/rainbow-me/rainbow) — Mobile wallet with strong UX for NFTs and DeFi.
 - [WalletConnect Monorepo](https://github.com/WalletConnect/walletconnect-monorepo) — Wallet ↔ dApp communication standard.
 - [AppKit (formerly Web3Modal)](https://github.com/WalletConnect/web3modal) — Pre-built wallet connection UI.
+- [BitTool Signer for iOS](https://github.com/bitbill/bittool-signer-ios) — Reviews and signs EVM transactions and messages on an offline iPhone using QR request and signature exchange.
 - [RainbowKit](https://github.com/rainbow-me/rainbowkit) — React wallet connection library.
 - [ConnectKit](https://github.com/family/connectkit) — Family's polished wallet connector.
 - [Safe Wallet UI](https://github.com/safe-global/safe-wallet-web) — Multisig wallet front-end.
