@@ -63,6 +63,7 @@ If you're building on EVM and need a custom integration, a security review, a be
 - [Uniswap V4 Core](https://github.com/Uniswap/v4-core) — Singleton pool architecture with hooks for arbitrary pool logic.
 - [Uniswap V4 Periphery](https://github.com/Uniswap/v4-periphery) — Routers and example hooks for V4.
 - [Uniswap X](https://github.com/Uniswap/UniswapX) — Permit2-based intent settlement protocol.
+- [MelegaSwapV2](https://github.com/meleganza/MelegaSwapV2) — Frontend and SDK workspace for the Melega decentralized exchange on BNB Chain.
 - [PancakeSwap Smart Contracts](https://github.com/pancakeswap/pancake-smart-contracts) — V2-style AMM and surrounding farms; the canonical BNB Chain DEX fork target.
 - [PancakeSwap V3](https://github.com/pancakeswap/pancake-v3-contracts) — PancakeSwap's concentrated-liquidity port.
 - [SushiSwap](https://github.com/sushiswap/sushiswap) — Multi-chain AMM with permissionless pool creation.
